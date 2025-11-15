@@ -1,0 +1,11 @@
+# 无限射程模组配置
+# 直接设置子弹射程（BulletDistance）
+BulletDistance=100
+
+# 常用射程参考:
+# BulletDistance=25   (默认手枪射程)
+# BulletDistance=50   (中等射程)
+# BulletDistance=100  (长射程)
+# BulletDistance=200  (超长射程)
+# BulletDistance=500  (狙击射程)
+# BulletDistance=999  (接近无限)
